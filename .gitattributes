@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.cs text
+*.asset text
+*.meta text
+*.asmdef text
+*.asset whitespace=-blank-at-eol
+*.meta whitespace=-blank-at-eol

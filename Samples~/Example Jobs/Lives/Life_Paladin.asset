@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a41e2ff6f35aba4dbd8b192daf39378, type: 3}
+  m_Name: Life_Paladin
+  m_EditorClassIdentifier: Tigertycoon.JobProgression::JobProgression.Data.LifeDefinition
+  icon: {fileID: 0}
+  lifeName: Paladin
+  lifeType: 0
+  description: A holy warrior who fights with sword and shield to protect the weak.
+    Excels in defense and healing.
+  ranks:
+  - {fileID: 11400000, guid: 0a9cfc62353b6c64096bfbad9484ed58, type: 2}
+  - {fileID: 11400000, guid: 1c3ba0d7542004d4b8d66e2e59a02311, type: 2}
+  - {fileID: 11400000, guid: 70ac4561a934ed9408c3f31d91faaeab, type: 2}
+  - {fileID: 11400000, guid: e7092905f27acab4182200b157a217f6, type: 2}
+  - {fileID: 11400000, guid: cf58b2bff2ba873419da4abd8b9c00fa, type: 2}
+  - {fileID: 11400000, guid: 1720c61593e3d034aa9f8cf87c7e373a, type: 2}
+  - {fileID: 11400000, guid: f18e14e4d3f12ac4ab0ec894e61a0955, type: 2}
+  - {fileID: 11400000, guid: 148cf69d994a348429f4e6882cde3df9, type: 2}
+  - {fileID: 11400000, guid: 8b35f22324e6a7c42a3e91a03e1a5218, type: 2}
+  rankStatBonuses:
+  - rankTier: 0
+    STR: 2
+    VIT: 3
+    INT: 0
+    FOC: 0
+    DEX: 0
+    LUK: 0
+  - rankTier: 1
+    STR: 4
+    VIT: 6
+    INT: 0
+    FOC: 1
+    DEX: 1
+    LUK: 0
+  - rankTier: 2
+    STR: 7
+    VIT: 10
+    INT: 0
+    FOC: 2
+    DEX: 2
+    LUK: 1
+  - rankTier: 3
+    STR: 11
+    VIT: 16
+    INT: 1
+    FOC: 3
+    DEX: 3
+    LUK: 2
+  - rankTier: 4
+    STR: 16
+    VIT: 23
+    INT: 2
+    FOC: 5
+    DEX: 4
+    LUK: 3
+  - rankTier: 5
+    STR: 22
+    VIT: 32
+    INT: 3
+    FOC: 7
+    DEX: 6
+    LUK: 4
+  - rankTier: 6
+    STR: 30
+    VIT: 42
+    INT: 4
+    FOC: 9
+    DEX: 8
+    LUK: 6
+  - rankTier: 7
+    STR: 38
+    VIT: 54
+    INT: 6
+    FOC: 12
+    DEX: 10
+    LUK: 8
+  - rankTier: 8
+    STR: 48
+    VIT: 68
+    INT: 8
+    FOC: 15
+    DEX: 13
+    LUK: 10
+  primaryStat: 1
+  secondaryStat: 0

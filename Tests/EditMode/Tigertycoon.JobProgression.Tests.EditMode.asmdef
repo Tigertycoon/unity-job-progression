@@ -1,0 +1,13 @@
+{
+  "name": "Tigertycoon.JobProgression.Tests.EditMode",
+  "references": [
+    "Tigertycoon.JobProgression"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false,
+  "includePlatforms": [
+    "Editor"
+  ]
+}

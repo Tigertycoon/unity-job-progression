@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a41e2ff6f35aba4dbd8b192daf39378, type: 3}
+  m_Name: Life_Magician
+  m_EditorClassIdentifier: Tigertycoon.JobProgression::JobProgression.Data.LifeDefinition
+  icon: {fileID: 0}
+  lifeName: Magician
+  lifeType: 0
+  description: A scholar of the arcane arts who commands elemental magic. Devastating
+    ranged attacks but fragile.
+  ranks:
+  - {fileID: 11400000, guid: 0a9cfc62353b6c64096bfbad9484ed58, type: 2}
+  - {fileID: 11400000, guid: 1c3ba0d7542004d4b8d66e2e59a02311, type: 2}
+  - {fileID: 11400000, guid: 70ac4561a934ed9408c3f31d91faaeab, type: 2}
+  - {fileID: 11400000, guid: e7092905f27acab4182200b157a217f6, type: 2}
+  - {fileID: 11400000, guid: cf58b2bff2ba873419da4abd8b9c00fa, type: 2}
+  - {fileID: 11400000, guid: 1720c61593e3d034aa9f8cf87c7e373a, type: 2}
+  - {fileID: 11400000, guid: f18e14e4d3f12ac4ab0ec894e61a0955, type: 2}
+  - {fileID: 11400000, guid: 148cf69d994a348429f4e6882cde3df9, type: 2}
+  - {fileID: 11400000, guid: 8b35f22324e6a7c42a3e91a03e1a5218, type: 2}
+  rankStatBonuses:
+  - rankTier: 0
+    STR: 0
+    VIT: 0
+    INT: 3
+    FOC: 2
+    DEX: 0
+    LUK: 0
+  - rankTier: 1
+    STR: 0
+    VIT: 1
+    INT: 7
+    FOC: 4
+    DEX: 0
+    LUK: 0
+  - rankTier: 2
+    STR: 0
+    VIT: 2
+    INT: 12
+    FOC: 7
+    DEX: 1
+    LUK: 0
+  - rankTier: 3
+    STR: 1
+    VIT: 3
+    INT: 18
+    FOC: 11
+    DEX: 2
+    LUK: 1
+  - rankTier: 4
+    STR: 2
+    VIT: 4
+    INT: 25
+    FOC: 16
+    DEX: 3
+    LUK: 3
+  - rankTier: 5
+    STR: 3
+    VIT: 6
+    INT: 34
+    FOC: 22
+    DEX: 4
+    LUK: 5
+  - rankTier: 6
+    STR: 4
+    VIT: 8
+    INT: 44
+    FOC: 28
+    DEX: 6
+    LUK: 7
+  - rankTier: 7
+    STR: 6
+    VIT: 10
+    INT: 55
+    FOC: 36
+    DEX: 8
+    LUK: 10
+  - rankTier: 8
+    STR: 8
+    VIT: 13
+    INT: 68
+    FOC: 45
+    DEX: 10
+    LUK: 13
+  primaryStat: 2
+  secondaryStat: 3

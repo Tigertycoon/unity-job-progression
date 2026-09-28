@@ -1,0 +1,27 @@
+{
+  "name": "com.tigertycoon.job-progression",
+  "version": "0.1.0",
+  "displayName": "Job Progression",
+  "description": "ScriptableObject jobs, star-based ranks, character XP and RPG stat formulas extracted from a Unity prototype.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Niklas",
+    "url": "https://github.com/Tigertycoon"
+  },
+  "license": "MIT",
+  "keywords": [
+    "rpg",
+    "progression",
+    "scriptableobject"
+  ],
+  "dependencies": {
+    "com.unity.modules.imgui": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Example Jobs",
+      "description": "Twelve job definitions sharing nine ranks; data only, with no external art or plugins.",
+      "path": "Samples~/Example Jobs"
+    }
+  ]
+}

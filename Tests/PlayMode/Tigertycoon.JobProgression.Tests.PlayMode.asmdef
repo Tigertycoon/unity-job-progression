@@ -1,0 +1,10 @@
+{
+  "name": "Tigertycoon.JobProgression.Tests.PlayMode",
+  "references": [
+    "Tigertycoon.JobProgression"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

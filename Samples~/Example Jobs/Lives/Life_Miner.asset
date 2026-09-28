@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a41e2ff6f35aba4dbd8b192daf39378, type: 3}
+  m_Name: Life_Miner
+  m_EditorClassIdentifier: Tigertycoon.JobProgression::JobProgression.Data.LifeDefinition
+  icon: {fileID: 0}
+  lifeName: Miner
+  lifeType: 1
+  description: A sturdy prospector who digs deep for ores and gems. Supplies materials
+    for Blacksmiths.
+  ranks:
+  - {fileID: 11400000, guid: 0a9cfc62353b6c64096bfbad9484ed58, type: 2}
+  - {fileID: 11400000, guid: 1c3ba0d7542004d4b8d66e2e59a02311, type: 2}
+  - {fileID: 11400000, guid: 70ac4561a934ed9408c3f31d91faaeab, type: 2}
+  - {fileID: 11400000, guid: e7092905f27acab4182200b157a217f6, type: 2}
+  - {fileID: 11400000, guid: cf58b2bff2ba873419da4abd8b9c00fa, type: 2}
+  - {fileID: 11400000, guid: 1720c61593e3d034aa9f8cf87c7e373a, type: 2}
+  - {fileID: 11400000, guid: f18e14e4d3f12ac4ab0ec894e61a0955, type: 2}
+  - {fileID: 11400000, guid: 148cf69d994a348429f4e6882cde3df9, type: 2}
+  - {fileID: 11400000, guid: 8b35f22324e6a7c42a3e91a03e1a5218, type: 2}
+  rankStatBonuses:
+  - rankTier: 0
+    STR: 2
+    VIT: 2
+    INT: 0
+    FOC: 0
+    DEX: 1
+    LUK: 0
+  - rankTier: 1
+    STR: 5
+    VIT: 4
+    INT: 0
+    FOC: 0
+    DEX: 2
+    LUK: 1
+  - rankTier: 2
+    STR: 8
+    VIT: 7
+    INT: 0
+    FOC: 0
+    DEX: 4
+    LUK: 3
+  - rankTier: 3
+    STR: 12
+    VIT: 11
+    INT: 0
+    FOC: 1
+    DEX: 6
+    LUK: 6
+  - rankTier: 4
+    STR: 17
+    VIT: 16
+    INT: 0
+    FOC: 2
+    DEX: 9
+    LUK: 9
+  - rankTier: 5
+    STR: 23
+    VIT: 22
+    INT: 0
+    FOC: 3
+    DEX: 12
+    LUK: 13
+  - rankTier: 6
+    STR: 30
+    VIT: 28
+    INT: 0
+    FOC: 4
+    DEX: 16
+    LUK: 18
+  - rankTier: 7
+    STR: 38
+    VIT: 36
+    INT: 0
+    FOC: 5
+    DEX: 20
+    LUK: 23
+  - rankTier: 8
+    STR: 47
+    VIT: 45
+    INT: 0
+    FOC: 7
+    DEX: 25
+    LUK: 28
+  primaryStat: 0
+  secondaryStat: 1
